@@ -7,13 +7,16 @@
     .cookie {
         -webkit-filter: drop-shadow(1px 1px 0 white) drop-shadow(-1px -1px 0 white);
         filter: drop-shadow(1px 1px 0 white) drop-shadow(-1px -1px 0 white);
+
     }
 
     .cookie:hover {
         -webkit-filter: drop-shadow(5px 5px 0 white) drop-shadow(-5px -5px 0 white);
         filter: drop-shadow(5px 5px 0 white) drop-shadow(-5px -5px 0 white);
         animation: rocking 0.5s infinite forwards;
+        overflow: hidden;
     }
+
 
     @keyframes rocking {
         0% {
