@@ -1,6 +1,8 @@
 ## Project Description
 
-This project is a basic fortune cookie website designed to test the usage of Tailwind CSS. 
+This project is a basic fortune cookie website designed to test the usage of Tailwind CSS and CSS animations. 
+
+![FortuneCookie](https://github.com/user-attachments/assets/1c7bfa45-e550-462f-9271-f96ed79803bb)
 
 ## Installation Guide
 
